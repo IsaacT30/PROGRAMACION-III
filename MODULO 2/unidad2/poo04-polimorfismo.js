@@ -27,6 +27,9 @@ class Rectangulo extends Figura{
         return this._ancho * this._alto;
     }
 }
+
+
+//trabajo
  //clacular el area de un cuadrado
 class Cuadrado extends Figura{
     _lado;
@@ -47,3 +50,4 @@ console.log(miCirculo.calcularArea());
 const miRectangulo=new Rectangulo(4,6);
 console.log(miRectangulo.calcularArea());
 
+//trabajo

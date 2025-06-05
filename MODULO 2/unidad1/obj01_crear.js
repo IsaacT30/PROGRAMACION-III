@@ -69,3 +69,5 @@ categoria={
     }
 }
 console.log(categoria);
+
+
